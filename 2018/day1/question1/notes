@@ -1,0 +1,1 @@
+./answer.py $(cat data.txt)

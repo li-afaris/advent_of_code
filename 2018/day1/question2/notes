@@ -1,0 +1,5 @@
+afaris-mn1:day2 afaris$ ./answer.py < data.txt 
+17:12:48.459490 loops = 100 duplicates = 96328
+Found duplicate: 341
+Loop count 138
+
